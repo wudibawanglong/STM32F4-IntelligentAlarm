@@ -47,3 +47,4 @@
 ..\obj\main.o: ..\HARDWARE\REMOTE\remote.h
 ..\obj\main.o: ..\HARDWARE\SMOG\smog.h
 ..\obj\main.o: ..\HARDWARE\ADC3\adc3.h
+..\obj\main.o: ..\HARDWARE\TIMER\timer.h
